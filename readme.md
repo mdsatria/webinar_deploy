@@ -1,2 +1,2 @@
-v1 (MLP model) \
+v1 (MLP) \
 v2 (CNN)
